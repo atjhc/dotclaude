@@ -3,6 +3,7 @@
 
 # Allow specific directories and files
 !.gitignore
+!README.md
 !CLAUDE.md
 !agents/
 !agents/**
